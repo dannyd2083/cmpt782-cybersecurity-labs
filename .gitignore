@@ -5,6 +5,10 @@
 .terraform/
 .terraform.lock.hcl
 
+# Terraform binaries
+terraform.exe
+terraform
+
 # System files
 .DS_Store
 Thumbs.db
